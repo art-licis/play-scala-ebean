@@ -8,6 +8,7 @@ scalaVersion := "2.11.1"
 
 libraryDependencies ++= Seq(
   jdbc,
+  javaEbean,
   anorm,
   cache,
   ws

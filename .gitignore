@@ -3,6 +3,7 @@ project/project
 project/target
 target
 tmp
+.cache
 .history
 dist
 /.idea
@@ -13,3 +14,4 @@ dist
 /.project
 /RUNNING_PID
 /.settings
+/bin/
